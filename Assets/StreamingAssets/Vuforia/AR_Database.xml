@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Praying_Mantis" size="1.000000 1.458333" />
+    <ImageTarget name="Spirit_Of_Gaia" size="1.000000 1.458333" />
+    <ImageTarget name="Miyabi" size="1.000000 1.008333" />
+    <ImageTarget name="SF90_Stradale" size="1.000000 0.425000" />
+  </Tracking>
+</QCARConfig>
