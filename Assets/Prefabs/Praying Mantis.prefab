@@ -70,10 +70,32 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: e261656848ca0ec4cad95ad407214a84, type: 2}
     - target: {fileID: 919132149155446097, guid: 27616a38d28b5d144b15a02a08a60c87, type: 3}
       propertyPath: m_Name
-      value: Sketchfab_2025_03_24_17_40_53
+      value: Praying Mantis
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 27616a38d28b5d144b15a02a08a60c87, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -2300054787193968642}
   m_SourcePrefab: {fileID: 100100000, guid: 27616a38d28b5d144b15a02a08a60c87, type: 3}
+--- !u!1 &7669578744956381025 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 27616a38d28b5d144b15a02a08a60c87, type: 3}
+  m_PrefabInstance: {fileID: 7399054554489150000}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-2300054787193968642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7669578744956381025}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b210c3a4115219245b121b007956cb2a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  joystick: {fileID: 2929252283123773951, guid: aaa2c939c0359ac4dbce3f49e8b90252, type: 3}
+  speed: 1.2
