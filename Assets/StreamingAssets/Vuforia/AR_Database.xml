@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="polarbear" size="1.000000 1.000000" />
+    <ImageTarget name="polarbear" size="1.000000 1.423676" />
     <ImageTarget name="mantaray" size="1.000000 1.378205" />
     <ImageTarget name="komododragon" size="1.000000 1.482353" />
     <ImageTarget name="killerwhale" size="1.000000 1.456140" />
@@ -11,8 +11,5 @@
     <ImageTarget name="americalalligator" size="1.000000 1.473684" />
     <ImageTarget name="africanelepthant" size="1.000000 1.473684" />
     <ImageTarget name="Praying_Mantis" size="1.000000 1.458333" />
-    <ImageTarget name="Spirit_Of_Gaia" size="1.000000 1.458333" />
-    <ImageTarget name="Miyabi" size="1.000000 1.008333" />
-    <ImageTarget name="SF90_Stradale" size="1.000000 0.425000" />
   </Tracking>
 </QCARConfig>
