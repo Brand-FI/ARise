@@ -18,7 +18,7 @@ public class Move : MonoBehaviour
         initialPos = transform.localPosition;
         initialRot = transform.localRotation;
 
-        if (animator == null) animator = GetComponent<Animator>();
+        animator = GetComponentInChildren<Animator>();
     }
 
 

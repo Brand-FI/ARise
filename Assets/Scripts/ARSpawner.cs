@@ -59,6 +59,11 @@ public class ARSpawner : MonoBehaviour
         btnSwitch.SetActive(false);
         joystickUI.SetActive(false);
 
+        if (GameHelper.joyMode)
+        {
+            GameHelper.joyMode = false;
+        }
+
         GameHelper.Instance.hideBtnPlay();
 
         if (audioSource != null)
